@@ -1,0 +1,80 @@
+question,option1,option2,option3,option4,correct_answer,category,difficulty
+What does CPU stand for?,Central Processing Unit,Computer Personal Unit,Central Program Utility,Central Processor Unit,Central Processing Unit,coding,easy
+Which data structure uses LIFO principle?,Queue,Stack,Array,Linked List,Stack,data_structures,easy
+What is the time complexity of binary search in a sorted array?,O(n),O(log n),O(n^2),O(1),O(log n),algorithms,easy
+Which language is known as the mother of all programming languages?,Python,C,Java,JavaScript,C,coding,easy
+What does SQL stand for?,Structured Query Language,Simple Query Language,Standard Query Logic,Structured Question Language,Structured Query Language,database,easy
+Which sorting algorithm has O(n log n) average case complexity?,Bubble Sort,Selection Sort,Merge Sort,Insertion Sort,Merge Sort,algorithms,easy
+What is a primary key in a database?,A unique identifier for each row,A foreign key,A secondary index,A backup key,A unique identifier for each row,database,easy
+Which data structure is used for BFS traversal?,Stack,Queue,Array,Heap,Queue,data_structures,easy
+What does RAM stand for?,Random Access Memory,Read Only Memory,Read Access Memory,Runtime Access Memory,Random Access Memory,os,easy
+Which paradigm does Java primarily follow?,Functional,Procedural,Object-Oriented,Logical,Object-Oriented,coding,easy
+What is the full form of HTML?,Hyper Text Markup Language,High Tech Markup Language,Home Tool Markup Language,Hyperlink Text Mark Language,Hyper Text Markup Language,coding,easy
+What does API stand for?,Application Program Interface,Application Programming Interface,Automated Programming Interface,Application Process Interface,Application Programming Interface,coding,easy
+Which data structure allows O(1) insertion at the end?,Linked List,Array (dynamic),Stack,Queue,Array (dynamic),data_structures,easy
+What is the smallest unit of data in a computer?,Byte,Bit,Nibble,Word,Bit,os,easy
+Which protocol is used for secure web communication?,HTTP,FTP,HTTPS,SMTP,HTTPS,networks,easy
+What does IDE stand for?,Integrated Development Environment,Internal Development Editor,Integrated Design Environment,Interactive Development Environment,Integrated Development Environment,coding,easy
+Which loop guarantees at least one execution in most languages?,for loop,while loop,do-while loop,if-else,do-while loop,coding,easy
+What is a linked list node composed of?,Only data,Data and pointer(s),Only pointers,Index and value,Data and pointer(s),data_structures,easy
+What does DNS stand for?,Domain Name Server,Domain Name System,Data Network Service,Dynamic Name System,Domain Name System,networks,easy
+Which keyword is used for inheritance in Java?,implements,extends,inherits,uses,extends,coding,easy
+What is the time complexity of accessing an element in an array by index?,O(n),O(log n),O(n^2),O(1),O(1),algorithms,easy
+What does OS stand for?,Operating System,Output System,Ordered System,Option System,Operating System,os,easy
+Which is NOT a valid data type in most programming languages?,Integer,Float,String,Decimal,Decimal,coding,easy
+What is the purpose of an index in a database?,To speed up data retrieval,To store backup data,To encrypt data,To compress data,To speed up data retrieval,database,easy
+Which data structure uses FIFO principle?,Stack,Queue,Array,Tree,Queue,data_structures,easy
+What does URL stand for?,Universal Resource Locator,Uniform Resource Locator,Unified Resource Link,Universal Reference Link,Uniform Resource Locator,networks,easy
+What is recursion?,A loop that runs forever,A function that calls itself,A type of array,A sorting algorithm,A function that calls itself,algorithms,easy
+Which is a non-linear data structure?,Array,Linked List,Tree,Queue,Tree,data_structures,easy
+What does HTTP stand for?,Hyper Text Transfer Protocol,High Transfer Text Protocol,Home Tool Transfer Process,Hyperlink Text Transfer Protocol,Hyper Text Transfer Protocol,networks,easy
+What is encapsulation in OOP?,Bundling data and methods that operate on that data,Creating multiple instances,Inheriting from a parent class,Overloading methods,Bundling data and methods that operate on that data,coding,easy
+What is the worst case time complexity of Quick Sort?,O(n log n),O(n),O(n^2),O(log n),O(n^2),algorithms,medium
+Which data structure is best for implementing a priority queue?,Array,Linked List,Heap,Stack,Heap,data_structures,medium
+What is normalization in database design?,Process of organizing data to reduce redundancy,Encrypting database,Backing up data,Indexing tables,Process of organizing data to reduce redundancy,database,medium
+What is a deadlock in operating systems?,A process that runs forever,Two or more processes waiting for each other,Memory overflow,A crashed process,Two or more processes waiting for each other,os,medium
+What does TCP stand for?,Transfer Control Protocol,Transmission Control Protocol,Transmission Computer Protocol,Transfer Communication Protocol,Transmission Control Protocol,networks,medium
+What is polymorphism in OOP?,Single form of an object,Multiple forms of an object,Inheritance only,Encapsulation only,Multiple forms of an object,coding,medium
+What is the time complexity of merge sort?,O(n),O(n^2),O(n log n),O(log n),O(n log n),algorithms,medium
+What is a B-tree used for?,Sorting arrays,Database indexing,Graph traversal,String matching,Database indexing,data_structures,medium
+What is ACID in database context?,A programming language,Properties of database transactions,An operating system,A network protocol,Properties of database transactions,database,medium
+What is virtual memory?,Real physical RAM,Extension of RAM using disk space,A type of cache,A processor register,Extension of RAM using disk space,os,medium
+What does IP stand for?,Internet Protocol,Internal Process,Integrated Program,Input Protocol,Internet Protocol,networks,medium
+What is dynamic programming?,A programming paradigm that solves problems by breaking them into overlapping subproblems,A type of variable,A database technique,A sorting algorithm,A programming paradigm that solves problems by breaking them into overlapping subproblems,algorithms,medium
+What is a hash collision?,When two keys map to the same index,When hash table is empty,When key is not found,When hash function fails,When two keys map to the same index,data_structures,medium
+What is a foreign key?,Primary key of another table,Unique constraint,Index on a column,Backup key,Primary key of another table,database,medium
+What is a semaphore used for?,Process scheduling,Synchronization between processes,Memory management,File handling,Synchronization between processes,os,medium
+What does REST stand for in API design?,Representational State Transfer,Remote Execution and State Transfer,Resource Exchange and Service Technology,Rapid Enterprise System Transfer,Representational State Transfer,coding,medium
+What is the space complexity of recursive factorial?,O(1),O(n),O(log n),O(n^2),O(n),algorithms,medium
+What is a graph with no cycles called?, cyclic graph,Tree,Network,Web,Tree,data_structures,medium
+What is 1NF in database normalization?,First Normal Form - atomic values,Second level of normalization,Third level indexing,A join type,First Normal Form - atomic values,database,medium
+What is context switching in OS?,Changing from one process to another,Changing file content,Switching networks,Changing user,Changing from one process to another,os,medium
+What is a subnet mask used for?,To divide IP address into network and host parts,To encrypt data,To compress files,To format disks,To divide IP address into network and host parts,networks,medium
+What is method overriding?,Defining same method in child class with same signature,Defining multiple methods with same name,Inheriting a method,Hiding a variable,Defining same method in child class with same signature,coding,medium
+What is Dijkstra algorithm used for?,Sorting,Shortest path in weighted graph,Tree traversal,Hashing,Shortest path in weighted graph,algorithms,medium
+What is the height of a binary tree with n nodes (worst case)?,O(1),O(log n),O(n),O(n^2),O(n),data_structures,medium
+What is a transaction in database?,A single logical unit of work,A backup,A table,A query,A single logical unit of work,database,medium
+What is paging in operating systems?,Dividing memory into fixed-size blocks,Network routing,File compression,Process creation,Dividing memory into fixed-size blocks,os,medium
+What port does HTTP use by default?,21,443,80,25,80,networks,medium
+What is tail recursion?,Recursion with no base case,Recursion where recursive call is last operation,Recursion with multiple base cases,Infinite recursion,Recursion where recursive call is last operation,algorithms,medium
+What is an AVL tree?,A self-balancing binary search tree,A type of graph,A hash table,A linked list,A self-balancing binary search tree,data_structures,medium
+What is a view in SQL?,Virtual table based on result of a query,A physical table,A backup,A stored procedure,Virtual table based on result of a query,database,medium
+What is thrashing in OS?,Excessive paging causing performance degradation,Fast execution,Memory allocation success,Process completion,Excessive paging causing performance degradation,os,medium
+What is the purpose of DNS?,To translate domain names to IP addresses,To encrypt web traffic,To send emails,To store files,To translate domain names to IP addresses,networks,medium
+What is the time complexity of hash table lookup (average)?,O(n),O(log n),O(1),O(n^2),O(1),algorithms,medium
+What is the difference between stack and heap memory?,Stack: LIFO function calls; Heap: dynamic allocation,They are the same,Stack is faster than heap always,Heap uses less memory,Stack: LIFO function calls; Heap: dynamic allocation,coding,medium
+What is Big O notation used for?,Describing algorithm complexity,Writing code,Naming variables,Database design,Describing algorithm complexity,algorithms,hard
+What is the time complexity of building a heap from n elements?,O(n),O(n log n),O(n^2),O(log n),O(n),data_structures,hard
+What is CAP theorem in distributed systems?,Consistency Availability Partition tolerance - pick 2 of 3,Database normalization,Network protocol,Sorting algorithm,Consistency Availability Partition tolerance - pick 2 of 3,database,hard
+What is the critical section problem?,Ensuring only one process executes critical section at a time,Memory management,File locking,Network routing,Ensuring only one process executes critical section at a time,os,hard
+What is the difference between TCP and UDP?,TCP is connection-oriented; UDP is connectionless,They are identical,UDP is more reliable,TCP is faster,TCP is connection-oriented; UDP is connectionless,networks,hard
+What is the master theorem used for?,Solving recurrence relations,Database queries,Network routing,Sorting,Solving recurrence relations,algorithms,hard
+What is a red-black tree?,A self-balancing BST with color property,A type of graph,A hash table,An array structure,A self-balancing BST with color property,data_structures,hard
+What is database sharding?,Horizontal partitioning of data across multiple databases,Vertical partitioning,Backup strategy,Index creation,Horizontal partitioning of data across multiple databases,database,hard
+What is the Belady's anomaly?,More page faults with more frames in some cases,Better performance with more memory always,Faster disk access,Reduced context switching,More page faults with more frames in some cases,os,hard
+What is OSPF?,Open Shortest Path First - routing protocol,Operating system,Programming language,Database type,Open Shortest Path First - routing protocol,networks,hard
+What is memoization in dynamic programming?,Storing results of subproblems to avoid recomputation,Memory allocation,Database caching,File storage,Storing results of subproblems to avoid recomputation,algorithms,hard
+What is the time complexity of searching in a balanced BST?,O(n),O(1),O(log n),O(n log n),O(log n),data_structures,hard
+What is eventual consistency?,System reaches consistency over time after no updates,A type of normalization,Immediate consistency always,A backup strategy,System reaches consistency over time after no updates,database,hard
+What is the Banker's algorithm used for?,Deadlock avoidance,Memory allocation,Process scheduling,File management,Deadlock avoidance,os,hard
+What is BGP?,Border Gateway Protocol - inter-AS routing,Domain name system,File transfer protocol,Email protocol,Border Gateway Protocol - inter-AS routing,networks,hard
